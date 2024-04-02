@@ -10,4 +10,4 @@ Fixtures can be used to pre-populate database with data for tests.
 
 command
 # py manage.py dumpdata blog > data.json
-# py manage.py loaddata data
+# py manage.py loaddata blog
