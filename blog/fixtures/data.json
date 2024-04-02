@@ -1,0 +1,21 @@
+[
+    {
+        "model": "blog.postBlog",
+        "pk": 1,
+        "fields":{
+            "title": "post 1",
+            "body": "body post 1"
+        }
+
+    },
+    
+    {
+        "model": "blog.postBlog",
+        "pk": 2,
+        "fields":{
+            "title": "post 2",
+            "body": "body post 2"
+        }
+
+    }
+]
